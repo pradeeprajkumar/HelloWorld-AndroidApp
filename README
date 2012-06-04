@@ -1,1 +1,7 @@
-This is my first Hello world android application based on the sample code provided by an android programming book. Name of the application, welcome text, and a clickable button is displayed when this app is executed. Every android app starts its exectuion from the (filename)Activity.java. The button and the display codes are given in the main.xml file which is responsible for the UI of this app.
+This is my first Hello world android application based on the sample provided by an android programming book.
+
+Name of the application, welcome text, and a clickable button is displayed when this app is executed.
+
+Every android app starts its exectuion from the Activity java file.
+
+The button and the display codes are given in the main.xml(found in res/layout/) file which is responsible for the UI of this app.
